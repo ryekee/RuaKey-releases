@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/dashboard.png" width="760" alt="RuaKey dashboard" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/dashboard.png" width="820" alt="RuaKey dashboard" />
 
 # ⌨️ RuaKey
 
@@ -35,11 +35,32 @@ It counts **metadata only** — key categories, per-key tallies, modifier combos
 - **🖱️ Mouse** — click & scroll counts and a smooth per-display click heatmap (coordinates are quantized on capture — raw positions never touch disk).
 - **📱 Per-app** — which apps get your keystrokes and clicks.
 - **📈 7-day comparison** — every stat shows today vs. your last 7 days.
-- **🎚️ Floating HUD** — an optional live strip (KPM · current key · today's count) that auto-shows while you type and slips out of the way when your cursor comes near.
 - **🎉 Milestone Confetti** — a full-screen celebration when you set a new 7-day record.
 - **🔄 Auto-update** — new versions install themselves.
 
 All in a dark terminal/dashboard aesthetic — amber + green, Departure Mono, dense machine-readout panels.
+
+## 📊 Your data, two ways
+
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/popover.png" align="right" width="300" alt="Menu bar popover" />
+
+The **window** is the deep dive — totals, speed, heatmaps, per-app breakdowns and long-term trends, all on one terminal-style dashboard.
+
+The **menu bar** is the glance: click the icon for today's keystrokes & clicks, peak KPM, backspace rate, and your top key / combo / keyboard / app — plus quick switches for the HUD, KPM mode, and pause — without ever opening the window.
+
+<br clear="all"/>
+
+## 🎚️ Live HUD
+
+A tiny strip that floats over whatever you're working on — your **live KPM**, the **key you just hit**, and **today's running total**, updating as you type:
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/hud.gif" width="600" alt="RuaKey live HUD" />
+</div>
+
+- **Auto-shows** the instant you start typing and **fades out** when you go idle.
+- **Dodges your cursor** — slides out of the way the moment your pointer comes near, so it never blocks what's underneath (toggle it off in Settings).
+- Pin it to any of six screen positions, with an adjustable idle timeout.
 
 ## 📥 Install
 
@@ -47,7 +68,7 @@ All in a dark terminal/dashboard aesthetic — amber + green, Departure Mono, de
 2. First launch: **right-click → Open** to pass Gatekeeper (the app is ad-hoc signed, not notarized).
 3. Grant **Input Monitoring** when asked, then **quit and relaunch** — macOS requires a restart to enable it.
 
-After 0.3.0, updates arrive automatically; no need to come back here.
+After 0.3, updates arrive automatically; no need to come back here.
 
 ---
 
