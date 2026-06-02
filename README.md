@@ -69,7 +69,7 @@ A tiny strip that floats over whatever you're working on — your **live KPM**, 
 2. First launch: **right-click → Open** to pass Gatekeeper (the app is ad-hoc signed, not notarized).
 3. Grant **Input Monitoring** when asked, then **quit and relaunch** — macOS requires a restart to enable it.
 
-After 0.3, updates install themselves. One caveat: because the app is ad-hoc signed (not notarized), macOS may forget **Input Monitoring** after an update â **Settings ▸ Privacy** has a one-step guide to restore it.
+After 0.3, updates install themselves. One caveat: because the app is ad-hoc signed (not notarized), macOS may forget **Input Monitoring** after an update — **Settings ▸ Privacy** has a one-step guide to restore it.
 
 ---
 
