@@ -61,6 +61,7 @@ A tiny strip that floats over whatever you're working on — your **live KPM**, 
 - **Auto-shows** the instant you start typing and **fades out** when you go idle.
 - **Dodges your cursor** — slides out of the way the moment your pointer comes near, so it never blocks what's underneath (toggle it off in Settings).
 - Pin it to any of six screen positions, with an adjustable idle timeout.
+- **Make it your own** — show, hide and drag-reorder the modules, including a playful **typing cat** that speeds up as your KPM climbs.
 
 ## 📥 Install
 
@@ -68,7 +69,7 @@ A tiny strip that floats over whatever you're working on — your **live KPM**, 
 2. First launch: **right-click → Open** to pass Gatekeeper (the app is ad-hoc signed, not notarized).
 3. Grant **Input Monitoring** when asked, then **quit and relaunch** — macOS requires a restart to enable it.
 
-After 0.3, updates arrive automatically; no need to come back here.
+After 0.3, updates install themselves. One caveat: because the app is ad-hoc signed (not notarized), macOS may forget **Input Monitoring** after an update â **Settings ▸ Privacy** has a one-step guide to restore it.
 
 ---
 
