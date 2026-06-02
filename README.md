@@ -9,7 +9,7 @@ See *how* you type — without ever recording *what* you type.
 
 [![Download latest](https://img.shields.io/github/v/release/ryekee/RuaKey-releases?label=Download&style=for-the-badge&color=fab387)](https://github.com/ryekee/RuaKey-releases/releases/latest)
 
-macOS 14+ · Apple Silicon · lives in your menu bar
+macOS 14+ · Apple Silicon & Intel · lives in your menu bar
 
 </div>
 
