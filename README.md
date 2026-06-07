@@ -8,6 +8,7 @@
 See *how* you type — without ever recording *what* you type.
 
 [![Download latest](https://img.shields.io/github/v/release/ryekee/RuaKey-releases?label=Download&style=for-the-badge&color=fab387)](https://github.com/ryekee/RuaKey-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/ryekee/RuaKey-releases/total?label=downloads&style=for-the-badge&color=a6e3a1)](https://github.com/ryekee/RuaKey-releases/releases)
 
 macOS 14+ · Apple Silicon & Intel · lives in your menu bar
 
