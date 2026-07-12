@@ -5,12 +5,14 @@
 # ⌨️ RuaKey
 
 **A privacy-first keyboard analytics app for macOS.**
-See *how* you type — without ever recording *what* you type.
+*Knows how you type, never what you type.*
 
 [![Download latest](https://img.shields.io/github/v/release/ryekee/RuaKey-releases?label=Download&style=for-the-badge&color=fab387)](https://github.com/ryekee/RuaKey-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/ryekee/RuaKey-releases/total?label=downloads&style=for-the-badge&color=a6e3a1)](https://github.com/ryekee/RuaKey-releases/releases)
 
-macOS 14+ · Apple Silicon & Intel · lives in your menu bar
+macOS 15+ · Apple Silicon & Intel · lives in your menu bar
+
+English | [简体中文](README.zh-Hans.md) | [繁體中文](README.zh-Hant.md) | [日本語](README.ja.md)
 
 </div>
 
@@ -31,12 +33,13 @@ It counts **metadata only** — key categories, per-key tallies, modifier combos
 
 ## ✨ What you get
 
-- **📊 Dashboard** — today / 7-day / 30-day / lifetime totals, live & peak KPM, input speed (WPM), backspace rate, active streaks, hour-of-day & day-of-week patterns, and a year activity calendar.
+- **📊 Dashboard** — today / 7-day / 30-day / lifetime totals, live & peak KPM, delete rate, active streaks, hour-of-day & day-of-week patterns, and a year activity calendar.
 - **⌨️ Keyboard heatmap** — your most-pressed keys on a real board, across layouts: **MacBook · 75% · TKL · Alice · HHKB**.
 - **🖱️ Mouse** — click & scroll counts and a smooth per-display click heatmap (coordinates are quantized on capture — raw positions never touch disk).
 - **📱 Per-app** — which apps get your keystrokes and clicks.
 - **📈 7-day comparison** — every stat shows today vs. your last 7 days.
 - **🎉 Milestone Confetti** — a full-screen celebration when you set a new 7-day record.
+- **🌐 Four languages** — English, 简体中文, 繁體中文, 日本語.
 - **🔄 Auto-update** — new versions install themselves.
 
 All in a dark terminal/dashboard aesthetic — amber + green, Departure Mono, dense machine-readout panels.
@@ -47,7 +50,7 @@ All in a dark terminal/dashboard aesthetic — amber + green, Departure Mono, de
 
 The **window** is the deep dive — totals, speed, heatmaps, per-app breakdowns and long-term trends, all on one terminal-style dashboard.
 
-The **menu bar** is the glance: click the icon for today's keystrokes & clicks, peak KPM, backspace rate, and your top key / combo / keyboard / app — plus quick switches for the HUD, KPM mode, and pause — without ever opening the window.
+The **menu bar** is the glance: click the icon for today's keystrokes & clicks, peak KPM, delete rate, and your top key / combo / keyboard / app — plus quick switches for the HUD, KPM mode, and pause — without ever opening the window.
 
 <br clear="all"/>
 
