@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/dashboard.png" width="820" alt="RuaKey dashboard" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/zhs-dashboard.png" width="820" alt="RuaKey dashboard" />
 
 # ⌨️ RuaKey
 
@@ -46,7 +46,7 @@ RuaKey 把你的键盘（和鼠标）活动变成清晰、**只存于本机**的
 
 ## 📊 数据，两种看法
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/popover.png" align="right" width="300" alt="Menu bar popover" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/zhs-popover.png" align="right" width="300" alt="Menu bar popover" />
 
 **主窗口**用来深挖——总量、速度、热力图、按应用拆解与长期趋势，都在一块终端风格的仪表盘上。
 
@@ -59,7 +59,7 @@ RuaKey 把你的键盘（和鼠标）活动变成清晰、**只存于本机**的
 一条小小的悬浮条，浮在你手头的任何工作之上——**实时 KPM**、**刚按下的键**、**今日累计**，随你的敲击实时更新：
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/hud.gif" width="600" alt="RuaKey live HUD" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/v2-hud-darkbg.gif" width="600" alt="RuaKey live HUD" />
 </div>
 
 - 开始打字的瞬间**自动出现**，空闲时**淡出**。

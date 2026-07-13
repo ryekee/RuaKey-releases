@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/dashboard.png" width="820" alt="RuaKey dashboard" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/en-dashboard.png" width="820" alt="RuaKey dashboard" />
 
 # ⌨️ RuaKey
 
@@ -46,7 +46,7 @@ All in a dark terminal/dashboard aesthetic — amber + green, Departure Mono, de
 
 ## 📊 Your data, two ways
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/popover.png" align="right" width="300" alt="Menu bar popover" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/en-popover.png" align="right" width="300" alt="Menu bar popover" />
 
 The **window** is the deep dive — totals, speed, heatmaps, per-app breakdowns and long-term trends, all on one terminal-style dashboard.
 
@@ -59,7 +59,7 @@ The **menu bar** is the glance: click the icon for today's keystrokes & clicks, 
 A tiny strip that floats over whatever you're working on — your **live KPM**, the **key you just hit**, and **today's running total**, updating as you type:
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/hud.gif" width="600" alt="RuaKey live HUD" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/v2-hud-darkbg.gif" width="600" alt="RuaKey live HUD" />
 </div>
 
 - **Auto-shows** the instant you start typing and **fades out** when you go idle.

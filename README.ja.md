@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/dashboard.png" width="820" alt="RuaKey dashboard" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/ja-dashboard.png" width="820" alt="RuaKey dashboard" />
 
 # ⌨️ RuaKey
 
@@ -46,7 +46,7 @@ RuaKey はキーボード（とマウス）の操作を、**この Mac だけに
 
 ## 📊 データの見方は二つ
 
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/popover.png" align="right" width="300" alt="Menu bar popover" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/ja-popover.png" align="right" width="300" alt="Menu bar popover" />
 
 **ウィンドウ**はじっくり見る場所——合計、速度、ヒートマップ、アプリ別の内訳、長期トレンドを、一枚のターミナル風ダッシュボードで。
 
@@ -59,7 +59,7 @@ RuaKey はキーボード（とマウス）の操作を、**この Mac だけに
 作業中の画面にそっと浮かぶ小さなストリップ——**ライブ KPM**、**いま押したキー**、**今日の合計**が、打つそばから更新されます：
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/hud.gif" width="600" alt="RuaKey live HUD" />
+<img src="https://raw.githubusercontent.com/ryekee/RuaKey-releases/main/docs/v2-hud-darkbg.gif" width="600" alt="RuaKey live HUD" />
 </div>
 
 - 打ち始めた瞬間に**自動で現れ**、手が止まると**フェードアウト**。
