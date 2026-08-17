@@ -70,10 +70,10 @@ A tiny strip that floats over whatever you're working on — your **live KPM**, 
 ## 📥 Install
 
 1. **[Download the latest `.dmg`](https://github.com/ryekee/RuaKey-releases/releases/latest)** and drag **RuaKey** into Applications.
-2. First launch: **right-click → Open** to pass Gatekeeper (the app is ad-hoc signed, not notarized).
-3. Grant **Input Monitoring** when asked, then **quit and relaunch** — macOS requires a restart to enable it.
+2. Open RuaKey normally. **Developer ID signed and Apple notarized** releases pass Gatekeeper; only a legacy ad-hoc build may still need **right-click → Open** once.
+3. Grant **Input Monitoring** when asked, then **quit and relaunch once** — macOS requires a restart to enable it.
 
-After 0.3, updates install themselves. One caveat: because the app is ad-hoc signed (not notarized), macOS may forget **Input Monitoring** after an update — **Settings ▸ Privacy** has a one-step guide to restore it.
+Signed releases update through RuaKey's built-in updater and keep the same app identity, so you shouldn't need to grant Input Monitoring again. If you're moving from a legacy ad-hoc build and permission stays denied, remove the old RuaKey entry once and add the current app in **System Settings ▸ Privacy & Security ▸ Input Monitoring**.
 
 ---
 
